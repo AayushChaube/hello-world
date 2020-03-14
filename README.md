@@ -1,2 +1,6 @@
 # hello-world
-It's just for practice. Since I'm new to GitHub and I really need GitHub for my projects. So, yeah "Just another repository".
+
+Hi Humans!
+
+Aayush here. I like Python, Machine Learning and Data Science.
+You might wanna close that window. Because there's and East Wind coming.
